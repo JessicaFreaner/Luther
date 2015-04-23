@@ -1,2 +1,2 @@
-# Luther
-Explored Movie Data
+# Luther - Exploring Box Office Mojo Movie Data
+
