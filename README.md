@@ -6,7 +6,7 @@ Data was scraped from over 4,000 movies in Wide Release since 1982. Budget was a
 
 Ipython Notebook file is the initial cleaning and analysis of the dataset.
 
-PDF is the final presentation of findings and proposed actions.
+PDF is the [final presentation](http://www.slideshare.net/JessFreaner/luther-presentation-47482095 "Slideshare") of findings and proposed actions.
 
 ##Other Metis Projects:
 [Benson](http://jessicafreaner.github.io/Benson/ "Exploring MTA Data")
