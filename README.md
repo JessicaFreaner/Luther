@@ -9,7 +9,7 @@ Ipython Notebook file is the initial cleaning and analysis of the dataset.
 PDF is the final presentation of findings and proposed actions.
 
 ##Other Metis Projects:
-[Benson](jessicafreaner.github.io/Luther/ "Exploring MTA Data")
-[McNulty](jessicafreaner.github.io/McNulty/ "Exploring Heart Health Data")
-[Fletcher](jessicafreaner.github.io/Fletcher/ "Exploring Data with NLP")
-[Kojak](jessicafreaner.github.io/Kojak/ "Exploring NYC's Moving Populations")
+[Benson](http://jessicafreaner.github.io/Benson/ "Exploring MTA Data")
+[McNulty](http://jessicafreaner.github.io/McNulty/ "Exploring Heart Health Data")
+[Fletcher](http://jessicafreaner.github.io/Fletcher/ "Exploring Data with NLP")
+[Kojak](http://jessicafreaner.github.io/Kojak/ "Exploring NYC's Moving Populations")
