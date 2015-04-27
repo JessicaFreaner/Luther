@@ -7,3 +7,9 @@ Data was scraped from over 4,000 movies in Wide Release since 1982. Budget was a
 Ipython Notebook file is the initial cleaning and analysis of the dataset.
 
 PDF is the final presentation of findings and proposed actions.
+
+##Other Metis Projects:
+[Benson](jessicafreaner.github.io/Luther/ "Exploring MTA Data")
+[McNulty](jessicafreaner.github.io/McNulty/ "Exploring Heart Health Data")
+[Fletcher](jessicafreaner.github.io/Fletcher/ "Exploring Data with NLP")
+[Kojak](jessicafreaner.github.io/Kojak/ "Exploring NYC's Moving Populations")
